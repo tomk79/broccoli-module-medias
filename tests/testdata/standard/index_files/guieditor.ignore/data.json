@@ -5,21 +5,17 @@
             "fields": {
                 "main": [
                     {
-                        "modId": "pickles2:basics/text",
+                        "modId": "pickles2:medias/image-media",
                         "fields": {
-                            "main": {
-                                "src": "## 基本モジュール\n\n汎用的なHTMLモジュール環境を提供します。\n\n- <a href=\"#\" class=\"px2-a\">標準的なビュレット付きリンク</a>\n",
-                                "editor": "markdown"
-                            }
-                        },
-                        "anchor": "",
-                        "dec": ""
-                    },
-                    {
-                        "modId": "pickles2:basics/text",
-                        "fields": {
-                            "main": {
-                                "src": "## カラムモジュール\n",
+                            "image_src": {
+                                "resKey": "8c633753008de0e13162f75e7eb9ce0f",
+                                "path": "./index_files/resources/photo002-2131px-png24.png",
+                                "resType": "",
+                                "webUrl": ""
+                            },
+                            "alt_text": "alt",
+                            "caption": {
+                                "src": "画像メディアの例",
                                 "editor": "markdown"
                             }
                         },
