@@ -5,6 +5,18 @@
             "fields": {
                 "main": [
                     {
+                        "modId": "pickles2:medias/youtube-media",
+                        "fields": {
+                            "caption": {
+                                "src": "YouTube動画のサンプルです",
+                                "editor": "markdown"
+                            },
+                            "youtube_movie_id": "tAoQ7Zc6Sko"
+                        },
+                        "anchor": "",
+                        "dec": ""
+                    },
+                    {
                         "modId": "pickles2:medias/image-media",
                         "fields": {
                             "image_src": {
