@@ -1,7 +1,7 @@
-<figure class="px2-youtube-media">
-  <div class="px2-youtube-media__media"><iframe src="https://www.youtube.com/embed/{&{"input":{"type":"html_attr_text","name":"youtube_movie_id","label":"動画のID","rows":1}}&}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<figure class="px2-embedded-media">
+  <div class="px2-embedded-media__youtube-media"><iframe src="https://www.youtube.com/embed/{&{"input":{"type":"html_attr_text","name":"youtube_movie_id","label":"動画のID","rows":1}}&}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
   {&{"input":{"type":"multitext","name":"caption","rows":3, "hidden":true}}&}
   {& {"if":{"is_set":"caption"}} &}
-  <figcaption class="px2-youtube-media__caption">{&{"echo":{"ref":"caption"}}&}</figcaption>
+  <figcaption class="px2-embedded-media__caption">{&{"echo":{"ref":"caption"}}&}</figcaption>
   {& "endif" &}
 </figure>
