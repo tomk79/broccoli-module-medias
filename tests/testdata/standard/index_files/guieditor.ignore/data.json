@@ -15,24 +15,6 @@
                         },
                         "anchor": "",
                         "dec": ""
-                    },
-                    {
-                        "modId": "pickles2:medias/image-media",
-                        "fields": {
-                            "image_src": {
-                                "resKey": "8c633753008de0e13162f75e7eb9ce0f",
-                                "path": "./index_files/resources/photo002-2131px-png24.png",
-                                "resType": "",
-                                "webUrl": ""
-                            },
-                            "alt_text": "alt",
-                            "caption": {
-                                "src": "画像メディアの例",
-                                "editor": "markdown"
-                            }
-                        },
-                        "anchor": "",
-                        "dec": ""
                     }
                 ]
             },
