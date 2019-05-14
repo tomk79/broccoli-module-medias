@@ -5,13 +5,14 @@
             "fields": {
                 "main": [
                     {
-                        "modId": "pickles2:medias/youtube-media",
+                        "modId": "pickles2:movies/youtube-media",
                         "fields": {
                             "caption": {
                                 "src": "YouTube動画のサンプルです",
                                 "editor": "markdown"
                             },
-                            "youtube_movie_id": "yUnckFu7SNs",
+                            "html": "<iframe width=\"753\" height=\"445\" src=\"https://www.youtube.com/embed/yUnckFu7SNs?list=PL5ZUBZrE-CkDSYUvVZNDCILrzGhRG2U8L\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                            "youtube_movie_id": "",
                             "youtube_list_id": ""
                         },
                         "anchor": "",
@@ -24,14 +25,27 @@
                             "image-size": "1of3",
                             "media": [
                                 {
-                                    "modId": "pickles2:medias/youtube-media",
+                                    "modId": "pickles2:movies/youtube-media",
                                     "fields": {
                                         "caption": {
                                             "src": "YouTube動画のサンプルです",
                                             "editor": "markdown"
                                         },
+                                        "html": "",
                                         "youtube_movie_id": "yUnckFu7SNs",
-                                        "youtube_list_id": ""
+                                        "youtube_list_id": "PL5ZUBZrE-CkDSYUvVZNDCILrzGhRG2U8L"
+                                    },
+                                    "anchor": "",
+                                    "dec": ""
+                                },
+                                {
+                                    "modId": "pickles2:sns/twitter-tweet",
+                                    "fields": {
+                                        "html": "<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">民主主義 とは、 万人の叡智を結集する技術</p>&mdash; Tomoya Koyanagi (@tomk79) <a href=\"https://twitter.com/tomk79/status/1109129020036141056?ref_src=twsrc%5Etfw\">2019年3月22日</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+                                        "caption": {
+                                            "src": "",
+                                            "editor": "markdown"
+                                        }
                                     },
                                     "anchor": "",
                                     "dec": ""
