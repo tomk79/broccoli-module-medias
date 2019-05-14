@@ -11,7 +11,46 @@
                                 "src": "YouTube動画のサンプルです",
                                 "editor": "markdown"
                             },
-                            "youtube_movie_id": "yUnckFu7SNs"
+                            "youtube_movie_id": "yUnckFu7SNs",
+                            "youtube_list_id": ""
+                        },
+                        "anchor": "",
+                        "dec": ""
+                    },
+                    {
+                        "modId": "std-document:medias/float",
+                        "fields": {
+                            "lr": "r",
+                            "image-size": "1of3",
+                            "media": [
+                                {
+                                    "modId": "pickles2:medias/youtube-media",
+                                    "fields": {
+                                        "caption": {
+                                            "src": "YouTube動画のサンプルです",
+                                            "editor": "markdown"
+                                        },
+                                        "youtube_movie_id": "yUnckFu7SNs",
+                                        "youtube_list_id": ""
+                                    },
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ],
+                            "body_rect": "-rect",
+                            "main": [
+                                {
+                                    "modId": "std-document:basics/text",
+                                    "fields": {
+                                        "main": {
+                                            "src": "## Float Media Block\n\nこのモジュールは、テキストを回り込むメディア表示領域を作成します。\n\n回り込む方向を右か左のいずれかで選択します。 メディアの大きさは、幅 1/2、1/3、1/4 のサイズから選択することができます。\n\nまた、テキスト領域を回り込むか、矩形とするかを選択することもできます。\n",
+                                            "editor": "markdown"
+                                        }
+                                    },
+                                    "anchor": "",
+                                    "dec": ""
+                                }
+                            ]
                         },
                         "anchor": "",
                         "dec": ""
