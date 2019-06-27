@@ -19,6 +19,30 @@
                         "dec": ""
                     },
                     {
+                        "modId": "pickles2:common/html",
+                        "fields": {
+                            "html": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftomk79%2Fposts%2F2214827688570701&width=500\" width=\"500\" height=\"517\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+                            "caption": {
+                                "src": "",
+                                "editor": "markdown"
+                            }
+                        },
+                        "anchor": "",
+                        "dec": ""
+                    },
+                    {
+                        "modId": "pickles2:sns/twitter-tweet",
+                        "fields": {
+                            "html": "<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">民主主義 とは、 万人の叡智を結集する技術</p>&mdash; Tomoya Koyanagi (@tomk79) <a href=\"https://twitter.com/tomk79/status/1109129020036141056?ref_src=twsrc%5Etfw\">2019年3月22日</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+                            "caption": {
+                                "src": "",
+                                "editor": "markdown"
+                            }
+                        },
+                        "anchor": "",
+                        "dec": ""
+                    },
+                    {
                         "modId": "std-document:medias/float",
                         "fields": {
                             "lr": "r",
@@ -34,18 +58,6 @@
                                         "html": "",
                                         "youtube_movie_id": "yUnckFu7SNs",
                                         "youtube_list_id": "PL5ZUBZrE-CkDSYUvVZNDCILrzGhRG2U8L"
-                                    },
-                                    "anchor": "",
-                                    "dec": ""
-                                },
-                                {
-                                    "modId": "pickles2:sns/twitter-tweet",
-                                    "fields": {
-                                        "html": "<blockquote class=\"twitter-tweet\" data-lang=\"ja\"><p lang=\"ja\" dir=\"ltr\">民主主義 とは、 万人の叡智を結集する技術</p>&mdash; Tomoya Koyanagi (@tomk79) <a href=\"https://twitter.com/tomk79/status/1109129020036141056?ref_src=twsrc%5Etfw\">2019年3月22日</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
-                                        "caption": {
-                                            "src": "",
-                                            "editor": "markdown"
-                                        }
                                     },
                                     "anchor": "",
                                     "dec": ""
