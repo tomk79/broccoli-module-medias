@@ -1,6 +1,6 @@
 # Broccoli Module: Embedded Media Modules
 
-### tomk79/broccoli-module-medias v0.1.0 (リリース日未定)
+### tomk79/broccoli-module-medias v0.1.0 (2019年7月10日)
 
 - モジュールのアイコンとREADMEを更新。
 
