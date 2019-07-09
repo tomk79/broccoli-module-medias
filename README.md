@@ -1,5 +1,9 @@
 # Broccoli Module: Embedded Media Modules
 
+### tomk79/broccoli-module-medias v0.1.0 (リリース日未定)
+
+- モジュールのアイコンとREADMEを更新。
+
 ### tomk79/broccoli-module-medias v0.0.2 (2019年7月9日)
 
 - `:medias/image-media` を削除。 ベースとなるモジュールパッケージ `broccoli-module-std-document` へ移管する。
